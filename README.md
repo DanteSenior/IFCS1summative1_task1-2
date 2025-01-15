@@ -31,7 +31,7 @@ The user can enter answers by typing into the box, which is selected by default,
 A running total of correct and incorrect answers is displayed during the quiz. Once an answer to a question has been submitted, the program will display “Correct” or “Incorrect”, before moving onto the next question. At the end of the quiz the final score is displayed, along with a message based on how many questions were answered correctly by the user.
 
 ### Example gameplay
-![My Image](<img width="248" alt="QuizgameS1" src="https://github.com/user-attachments/assets/876b3d36-3835-4a4f-835e-81b629787a3b" />)
+![My Image](https://github.com/DanteSenior/IFCS1summative1_task1/blob/main/QuizgameS1.PNG)
 ### Troubleshooting
 “Please enter a number”
 This program requires the user to enter numbers only. If the message “Please enter a number” is displayed by the program, please ensure only numbers are entered into the “Enter answer” box.
