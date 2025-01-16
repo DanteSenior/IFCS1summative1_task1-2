@@ -83,7 +83,8 @@ Checks if the script is being run directly if the yes **def main()** function is
 This module contains one function **def generate_questions(difficulty):** with the parameter **difficulty**, using if-elif statements to run the appropriate function based on user input from main.py. Based on the function selected e.g. **elif difficulty == "medium"** then the variables **a, b, c** will be assigned random integer values from 1 to 12 (inclusive) using **random.randint(1, 12)** by importing the module **random** which uses functions to generate random integers. In this case the three variables are then assigned to **medium_question_ans** in the following format: **a * b + c** , this allows the users answer to be compared to the correct answer i.e. **medium_question_ans** the function then returns **“f"{a} * {b} + {c} = ?", medium_question_ans** with **f"{a} * {b} + {c} = ?** with the assigned integers being passed to main.py and subsequently displayed to the user, and **medium_question_ans** being used in main.py to compare to user answers.
 
 ### How to run locally
-To run locally download or clone via 
+To run locally clone via the web url [https://github.com/DanteSenior/IFCS1summative1_task2.git](https://github.com/DanteSenior/IFCS1summative1_task1.git) or navigate to the repo and download as a ZIP.
+
 #### Depenacies 
 Tkinter installed
 Python 3.15+
