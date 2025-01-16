@@ -49,7 +49,8 @@ question_generator.py
 The program uses a graphical user interface (GUI) to display and allow responses from the user based on their selected difficulty.
 
 ### Technical explanation 
-### main.py
+
+#### main.py
 This module contains functions for the GUI for this program tkinter, and for user input. A class is defined class QuizGUI containing the following functions: 
 
 #### def __init__(self, root): 
