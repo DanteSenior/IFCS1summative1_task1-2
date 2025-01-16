@@ -31,7 +31,7 @@ The user can enter answers by typing into the box, which is selected by default,
 A running total of correct and incorrect answers is displayed during the quiz. Once an answer to a question has been submitted, the program will display “Correct” or “Incorrect”, before moving onto the next question. At the end of the quiz the final score is displayed, along with a message based on how many questions were answered correctly by the user.
 
 ### Example gameplay
-![Gameplay](https://github.com/DanteSenior/IFCS1summative1_task1/blob/main/QuizgameS1.PNG)
+![Gameplay](https://github.com/DanteSenior/IFCS1summative1_task1/blob/main/Gameplay.PNG)
 
 Here the user asked 10 * 10 * 7 = ?, In the enter answer box the user has typed 107, they then clicked submit.
 As there answer is correct the quiz is displaying "Correct!"
