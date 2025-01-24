@@ -95,4 +95,4 @@ This module contains one function **def generate_questions(difficulty):** with t
 #### Depenacies 
 Tkinter installed
 
-Python 3.15+
+Python 3.9+
