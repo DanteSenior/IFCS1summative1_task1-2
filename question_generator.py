@@ -2,14 +2,14 @@ import random
 
 def generate_questions(difficulty):
     """
-    Generate questions based on difficulty level.
-
-    args: 
-        difficulty (str): The difficulty level of the question.
-        
-    returns:
-        str 
-
+    Generates questions based on selected difficulty.
+    
+    Args: 
+     difficulty (str): The difficulty level of the question
+     
+    Returns:
+     tuple: Contains the question answer, string
+     
     """
     if difficulty == "easy":
         a, b = random.randint(1, 12), random.randint(1, 12)
